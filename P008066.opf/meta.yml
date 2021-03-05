@@ -1,16 +1,17 @@
-id: opecha:P008066
+id: P008066
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W8LS18862
   title: མེ་གསོད་མེ་འགོག་སྐོར་གྱི་ཀྲུང་ཧྭ་མི་དམངས་སྤྱི་མཐུན་རྒྱལ་ཁབ་ཀྱི་བཅའ་ཁྲིམས།
-  volume:
+  author: ''
+  volumes:
     7e30d61a0462426cbd496f8e15a1dbea:
       image_group_id: I8LS18864
       title: Volume 1 of me gsod me 'gog skor gyi krung hwa mi dmangs spyi mthun rgyal
         khab kyi bca' khrims/
       volume_number: 1
       total_pages: 66
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: མེ་གསོད་མེ་འགོག་སྐོར་གྱི་ཀྲུང་ཧྭ་མི་དམངས་སྤྱི་མཐུན་རྒྱལ་ཁབ་ཀྱི་བཅའ་ཁྲིམས།
   author: ''
