@@ -5,11 +5,13 @@ source_metadata:
   title: མེ་གསོད་མེ་འགོག་སྐོར་གྱི་ཀྲུང་ཧྭ་མི་དམངས་སྤྱི་མཐུན་རྒྱལ་ཁབ་ཀྱི་བཅའ་ཁྲིམས།
   author: ''
   volumes:
-    a132dd01d2cc4015bd480fe2051a2692:
+    7e30d61a0462426cbd496f8e15a1dbea:
       image_group_id: I8LS18864
-      title: ''
+      title: Volume 1 of me gsod me 'gog skor gyi krung hwa mi dmangs spyi mthun rgyal
+        khab kyi bca' khrims/
       volume_number: 1
       total_pages: 66
+      base_file: v001.txt
 ebook_metadata:
   title: མེ་གསོད་མེ་འགོག་སྐོར་གྱི་ཀྲུང་ཧྭ་མི་དམངས་སྤྱི་མཐུན་རྒྱལ་ཁབ་ཀྱི་བཅའ་ཁྲིམས།
   author: ''
